@@ -4,4 +4,4 @@ This app enables users to generate an SVG logo based on user's choices of text, 
 
 ## The deployed app demo
 
-https://www.loom.com/share/e9520a8b341b47d3886b19ae982d241d
+https://www.loom.com/share/79bce5853bff4a85b0531798ddf1e7df
